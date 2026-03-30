@@ -122,33 +122,33 @@
   --color-bg-footer: #080808;
   --color-bg-holding-page: rgba(82, 0, 255, 0.6);
   /* Headings */
-  --h1-color: #6b68ff;
-  --h2-color: #6b68ff;
-  --h3-color: #6b68ff;
-  --h4-color: #6b68ff;
-  --h5-color: #6b68ff;
-  --h6-color: #6b68ff;
+  --h1-color: #e98bff;
+  --h2-color: #e98bff;
+  --h3-color: #e98bff;
+  --h4-color: #e98bff;
+  --h5-color: #e98bff;
+  --h6-color: #e98bff;
   /* Special Text Colours */
   --color-text-holding-title: #ebedf0;
   --color-text-project-category: #ffffff;
   --color-text-project-description: #ffffff;
   --color-text-project-sidebar: #222;
-  --color-text-project-title: #6b68ff;
+  --color-text-project-title: #e98bff;
   --color-text-work-grid-title: #ffffff;
   /* Link States */
-  --color-link: #6b68ff;
+  --color-link: #e98bff;
   --color-link-hover: #111;
-  --color-link-visited: #6b68ff;
+  --color-link-visited: #e98bff;
   /* Navigation */
-  --color-nav-link: #6b68ff;
+  --color-nav-link: #e98bff;
   --color-nav-link-hover: #321575;
-  --color-nav-arrow: #6b68ff;
+  --color-nav-arrow: #e98bff;
   --color-nav-arrow-hover: #000;
-  --color-nav-arrow-stroke: #6b68ff;
+  --color-nav-arrow-stroke: #e98bff;
   --color-nav-arrow-stroke-hover: #000;
   /* Components */
-  --color-bg-full-width: #f5f5f5;
-  --color-bg-project-description: #f5f5f5;
+  --color-bg-full-width: #827f7f;
+  --color-bg-project-description: #080808;
   --color-bg-sidebar-project: transparent;
   --color-bg-sidebar-work: lemonchiffon;
   --color-gradient-hero: linear-gradient(90deg, #ff00ff, #00ffff);

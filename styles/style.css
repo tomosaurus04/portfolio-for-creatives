@@ -33,13 +33,13 @@
 /* Remember, the more fonts you load, the longer it can take for your page to load. */
 
 /* Eczar Font (for headers or special text) */
-@import url("https://fonts.googleapis.com/css2?family=Eczar:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 
 /* Rubik Font (clean and modern for body text) */
-@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght,YOPQ@100..900,300&display=swap");
 
 /* Inter Font (great for readability and minimal design) */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 
 /*
 
@@ -111,7 +111,7 @@
   /* Core Colours */
   --color-text-primary: #f9f9f9;
   --color-text-secondary: #ededed;
-  --color-accent-primary: #ff8418;
+  --color-accent-primary: #f9f9f9;
   --color-accent-secondary: #ff057c;
   --color-overlay-primary: rgba(82, 0, 255, 0.5);
   --color-highlight: lemonchiffon;

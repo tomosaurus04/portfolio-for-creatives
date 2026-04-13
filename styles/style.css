@@ -450,7 +450,7 @@ svg {
   position: absolute;
   width: 180px;
   height: auto;
-  pointer-events: none;
+  pointer-events: auto;
   z-index: 10;
 }
 
@@ -475,11 +475,11 @@ svg {
   right: 0;
 }
 .cat-top-left {
-  top: 150px;
+  top: 210px;
   left: 150px;
 }
 .cat-top-right {
-  top: 150px;
+  top: 210px;
   right: 150px;
 }
 .cat-bottom-left {

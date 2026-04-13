@@ -441,7 +441,39 @@ svg {
 /* 🔤 Global & Mobile Typography                                      */
 /* Heading styles that scale nicely for mobile-first, responsive sites */
 /* ------------------------------------------------------------------ */
+.hero-header {
+  position: relative; /* important so cats stay inside */
+}
 
+/* Base cat style */
+.cat {
+  position: absolute;
+  width: 60px; /* adjust size */
+  height: auto;
+  pointer-events: none; /* prevents blocking clicks */
+  z-index: 10;
+}
+
+/* Corners */
+.cat-top-left {
+  top: 0;
+  left: 0;
+}
+
+.cat-top-right {
+  top: 0;
+  right: 0;
+}
+
+.cat-bottom-left {
+  bottom: 0;
+  left: 0;
+}
+
+.cat-bottom-right {
+  bottom: 0;
+  right: 0;
+}
 /* 
 ████████ ██    ██ ██████   ██████   ██████  ██████   █████  ██████  ██   ██ ██    ██ 
    ██     ██  ██  ██   ██ ██    ██ ██       ██   ██ ██   ██ ██   ██ ██   ██  ██  ██  

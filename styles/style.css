@@ -1586,7 +1586,7 @@ to keep your styles reusable and consistent.
 
   .project-aside {
     width: 35%;
-    height: 80vh;
+    height: 90vh;
     position: -webkit-sticky;
     position: sticky;
     top: 8rem;

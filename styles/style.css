@@ -469,7 +469,6 @@ svg {
   transition: transform 0.3s ease;
 }
 
-/* Corners (responsive spacing) */
 .cat-top-left {
   top: 10%;
   left: 8%;
@@ -507,13 +506,11 @@ svg {
   }
 }
 
-/* Mobile */
 @media (max-width: 600px) {
   .cat {
     width: 70px;
   }
 
-  /* Pull cats closer to edges */
   .cat-top-left {
     left: 2%;
   }
@@ -527,7 +524,6 @@ svg {
     right: 2%;
   }
 
-  /* Optional: reduce hover chaos on mobile */
   .cat:hover {
     transform: none;
   }
